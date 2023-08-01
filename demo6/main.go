@@ -22,7 +22,7 @@ func createMap() {
 	steps3 := map[string]string{
 		"浪里白条": "张顺",
 		"行者":   "武松",
-		"花和尚":  "鲁智深",
+		"花和尚":  "鲁智深哈哈哈",
 	}
 	fmt.Println(steps3)
 }
