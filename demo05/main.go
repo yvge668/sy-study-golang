@@ -55,7 +55,8 @@ func modifySlice() {
 	fmt.Println(arr)
 	fmt.Println(s)
 
-	s[0] = "update" //因为是切片引用数据类型,所以会直接修改数组中的内容
+	s[0] = "update" //
+
 	fmt.Println(arr)
 	fmt.Println(s)
 }
